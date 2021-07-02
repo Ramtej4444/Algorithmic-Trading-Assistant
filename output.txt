@@ -1,2021 +1,522 @@
 Status    : Complete
-BuyPrice  : 11906.50
+BuyPrice  : 11899.05
 BuyDate   : 2020-10-28
 BuyTime   : 3:45:0
-SellPrice : 11894.45
+SellPrice : 11855.04
 SellDate  : 2020-10-28
-SellTime  : 3:54:0
-Profit    : -120.50
+SellTime  : 5:6:0
+Profit    : -440.12
 
 Status    : Complete
-BuyPrice  : 11906.50
-BuyDate   : 2020-10-28
-BuyTime   : 3:55:0
-SellPrice : 11894.45
-SellDate  : 2020-10-28
-SellTime  : 4:26:0
-Profit    : -120.50
-
-Status    : Complete
-BuyPrice  : 11640.80
-BuyDate   : 2020-10-29
-BuyTime   : 3:45:0
-SellPrice : 11634.89
-SellDate  : 2020-10-29
-SellTime  : 3:46:0
-Profit    : -59.12
-
-Status    : Complete
-BuyPrice  : 11640.80
-BuyDate   : 2020-10-29
-BuyTime   : 3:51:0
-SellPrice : 11634.89
-SellDate  : 2020-10-29
-SellTime  : 3:52:0
-Profit    : -59.12
-
-Status    : Complete
-BuyPrice  : 11640.80
-BuyDate   : 2020-10-29
-BuyTime   : 3:53:0
-SellPrice : 11664.45
-SellDate  : 2020-10-29
-SellTime  : 4:9:0
-Profit    : 236.50
-
-Status    : Complete
-BuyPrice  : 11640.80
-BuyDate   : 2020-10-29
-BuyTime   : 7:45:0
-SellPrice : 11664.45
-SellDate  : 2020-10-29
-SellTime  : 7:59:0
-Profit    : 236.50
-
-Status    : Complete
-BuyPrice  : 11640.80
-BuyDate   : 2020-10-29
-BuyTime   : 8:16:0
-SellPrice : 11634.89
-SellDate  : 2020-10-29
-SellTime  : 8:17:0
-Profit    : -59.12
-
-Status    : Complete
-BuyPrice  : 11640.80
-BuyDate   : 2020-10-29
-BuyTime   : 8:18:0
-SellPrice : 11634.89
-SellDate  : 2020-10-29
-SellTime  : 8:19:0
-Profit    : -59.12
-
-Status    : Complete
-BuyPrice  : 11640.80
-BuyDate   : 2020-10-29
-BuyTime   : 8:21:0
-SellPrice : 11664.45
-SellDate  : 2020-10-29
-SellTime  : 8:23:0
-Profit    : 236.50
-
-Status    : Complete
-BuyPrice  : 11640.80
-BuyDate   : 2020-10-29
-BuyTime   : 8:32:0
-SellPrice : 11634.89
-SellDate  : 2020-10-29
-SellTime  : 8:50:0
-Profit    : -59.12
-
-Status    : Complete
-BuyPrice  : 11640.80
-BuyDate   : 2020-10-29
-BuyTime   : 9:8:0
-SellPrice : 11634.89
-SellDate  : 2020-10-29
-SellTime  : 9:9:0
-Profit    : -59.12
-
-Status    : Complete
-BuyPrice  : 11640.80
-BuyDate   : 2020-10-29
-BuyTime   : 9:20:0
-SellPrice : 11664.45
-SellDate  : 2020-10-29
-SellTime  : 9:36:0
-Profit    : 236.50
-
-Status    : Complete
-BuyPrice  : 11680.50
+BuyPrice  : 11744.15
 BuyDate   : 2020-10-30
-BuyTime   : 3:45:0
-SellPrice : 11669.67
+BuyTime   : 4:30:0
+SellPrice : 11709.72
 SellDate  : 2020-10-30
-SellTime  : 3:46:0
-Profit    : -108.25
+SellTime  : 4:59:0
+Profit    : -344.25
 
 Status    : Complete
-BuyPrice  : 11680.50
-BuyDate   : 2020-10-30
-BuyTime   : 3:48:0
-SellPrice : 11723.80
-SellDate  : 2020-10-30
-SellTime  : 3:58:0
-Profit    : 433.00
-
-Status    : Complete
-BuyPrice  : 11680.50
-BuyDate   : 2020-10-30
-BuyTime   : 5:25:0
-SellPrice : 11669.67
-SellDate  : 2020-10-30
-SellTime  : 5:26:0
-Profit    : -108.25
-
-Status    : Complete
-BuyPrice  : 11690.30
-BuyDate   : 2020-11-2
-BuyTime   : 3:45:0
-SellPrice : 11683.76
-SellDate  : 2020-11-2
-SellTime  : 3:46:0
-Profit    : -65.37
-
-Status    : Complete
-BuyPrice  : 11690.30
-BuyDate   : 2020-11-2
-BuyTime   : 8:53:0
-SellPrice : 11716.45
-SellDate  : 2020-11-2
-SellTime  : 9:3:0
-Profit    : 261.50
-
-Status    : Complete
-BuyPrice  : 11690.30
-BuyDate   : 2020-11-2
-BuyTime   : 9:36:0
-SellPrice : 11683.76
-SellDate  : 2020-11-2
-SellTime  : 9:40:0
-Profit    : -65.37
-
-Status    : Complete
-BuyPrice  : 11773.10
+BuyPrice  : 11725.65
 BuyDate   : 2020-11-3
 BuyTime   : 3:45:0
-SellPrice : 11760.65
+SellPrice : 11812.80
 SellDate  : 2020-11-3
-SellTime  : 3:46:0
-Profit    : -124.50
+SellTime  : 9:59:0
+Profit    : 871.49
 
 Status    : Complete
-BuyPrice  : 11773.10
-BuyDate   : 2020-11-3
-BuyTime   : 3:51:0
-SellPrice : 11760.65
-SellDate  : 2020-11-3
-SellTime  : 4:35:0
-Profit    : -124.50
-
-Status    : Complete
-BuyPrice  : 11773.10
-BuyDate   : 2020-11-3
-BuyTime   : 4:37:0
-SellPrice : 11822.90
-SellDate  : 2020-11-3
-SellTime  : 6:13:0
-Profit    : 498.00
-
-Status    : Complete
-BuyPrice  : 11862.55
+BuyPrice  : 11836.20
 BuyDate   : 2020-11-4
 BuyTime   : 3:45:0
-SellPrice : 11841.34
+SellPrice : 11807.97
 SellDate  : 2020-11-4
-SellTime  : 3:46:0
-Profit    : -212.12
+SellTime  : 7:41:0
+Profit    : -282.25
 
 Status    : Complete
-BuyPrice  : 11862.55
+BuyPrice  : 11836.20
 BuyDate   : 2020-11-4
-BuyTime   : 3:47:0
-SellPrice : 11841.34
+BuyTime   : 8:1:0
+SellPrice : 11807.97
 SellDate  : 2020-11-4
-SellTime  : 4:46:0
-Profit    : -212.12
+SellTime  : 8:5:0
+Profit    : -282.25
 
 Status    : Complete
-BuyPrice  : 11862.55
+BuyPrice  : 11836.20
 BuyDate   : 2020-11-4
-BuyTime   : 5:5:0
-SellPrice : 11841.34
-SellDate  : 2020-11-4
-SellTime  : 5:23:0
-Profit    : -212.12
-
-Status    : Complete
-BuyPrice  : 11862.55
-BuyDate   : 2020-11-4
-BuyTime   : 5:37:0
-SellPrice : 11841.34
-SellDate  : 2020-11-4
-SellTime  : 7:35:0
-Profit    : -212.12
-
-Status    : Complete
-BuyPrice  : 11862.55
-BuyDate   : 2020-11-4
-BuyTime   : 8:30:0
+BuyTime   : 8:23:0
 SellPrice : 11894.70
 SellDate  : 2020-11-4
 SellTime  : 9:59:0
-Profit    : 321.50
+Profit    : 585.00
 
 Status    : Complete
-BuyPrice  : 12077.30
-BuyDate   : 2020-11-5
-BuyTime   : 3:45:0
-SellPrice : 12069.45
-SellDate  : 2020-11-5
-SellTime  : 4:32:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 12077.30
-BuyDate   : 2020-11-5
-BuyTime   : 4:47:0
-SellPrice : 12069.45
-SellDate  : 2020-11-5
-SellTime  : 5:4:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 12077.30
-BuyDate   : 2020-11-5
-BuyTime   : 5:9:0
-SellPrice : 12069.45
-SellDate  : 2020-11-5
-SellTime  : 5:12:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 12077.30
-BuyDate   : 2020-11-5
-BuyTime   : 5:48:0
-SellPrice : 12069.45
-SellDate  : 2020-11-5
-SellTime  : 6:9:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 12077.30
-BuyDate   : 2020-11-5
-BuyTime   : 6:44:0
-SellPrice : 12069.45
-SellDate  : 2020-11-5
-SellTime  : 7:0:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 12077.30
-BuyDate   : 2020-11-5
-BuyTime   : 8:30:0
-SellPrice : 12108.70
-SellDate  : 2020-11-5
-SellTime  : 8:53:0
-Profit    : 314.00
-
-Status    : Complete
-BuyPrice  : 12161.05
-BuyDate   : 2020-11-6
-BuyTime   : 3:45:0
-SellPrice : 12153.75
-SellDate  : 2020-11-6
-SellTime  : 3:47:0
-Profit    : -73.00
-
-Status    : Complete
-BuyPrice  : 12161.05
-BuyDate   : 2020-11-6
-BuyTime   : 3:50:0
-SellPrice : 12153.75
-SellDate  : 2020-11-6
-SellTime  : 4:2:0
-Profit    : -73.00
-
-Status    : Complete
-BuyPrice  : 12161.05
-BuyDate   : 2020-11-6
-BuyTime   : 4:11:0
-SellPrice : 12190.25
-SellDate  : 2020-11-6
-SellTime  : 4:27:0
-Profit    : 292.00
-
-Status    : Complete
-BuyPrice  : 12161.05
-BuyDate   : 2020-11-6
-BuyTime   : 5:20:0
-SellPrice : 12153.75
-SellDate  : 2020-11-6
-SellTime  : 5:22:0
-Profit    : -73.00
-
-Status    : Complete
-BuyPrice  : 12161.05
-BuyDate   : 2020-11-6
-BuyTime   : 5:28:0
-SellPrice : 12190.25
-SellDate  : 2020-11-6
-SellTime  : 5:58:0
-Profit    : 292.00
-
-Status    : Complete
-BuyPrice  : 12415.50
-BuyDate   : 2020-11-9
-BuyTime   : 3:45:0
-SellPrice : 12447.10
-SellDate  : 2020-11-9
-SellTime  : 3:59:0
-Profit    : 316.00
-
-Status    : Complete
-BuyPrice  : 12415.50
-BuyDate   : 2020-11-9
-BuyTime   : 4:7:0
-SellPrice : 12447.10
-SellDate  : 2020-11-9
-SellTime  : 4:19:0
-Profit    : 316.00
-
-Status    : Complete
-BuyPrice  : 12415.50
-BuyDate   : 2020-11-9
-BuyTime   : 4:54:0
-SellPrice : 12407.60
-SellDate  : 2020-11-9
-SellTime  : 5:15:0
-Profit    : -79.00
-
-Status    : Complete
-BuyPrice  : 12415.50
-BuyDate   : 2020-11-9
-BuyTime   : 5:26:0
-SellPrice : 12407.60
-SellDate  : 2020-11-9
-SellTime  : 5:29:0
-Profit    : -79.00
-
-Status    : Complete
-BuyPrice  : 12415.50
-BuyDate   : 2020-11-9
-BuyTime   : 8:2:0
-SellPrice : 12407.60
-SellDate  : 2020-11-9
-SellTime  : 8:4:0
-Profit    : -79.00
-
-Status    : Complete
-BuyPrice  : 12415.50
-BuyDate   : 2020-11-9
-BuyTime   : 8:7:0
-SellPrice : 12447.10
-SellDate  : 2020-11-9
-SellTime  : 9:7:0
-Profit    : 316.00
-
-Status    : Complete
-BuyPrice  : 12557.05
-BuyDate   : 2020-11-10
-BuyTime   : 3:45:0
-SellPrice : 12544.47
-SellDate  : 2020-11-10
-SellTime  : 4:37:0
-Profit    : -125.75
-
-Status    : Complete
-BuyPrice  : 12557.05
-BuyDate   : 2020-11-10
-BuyTime   : 4:40:0
-SellPrice : 12544.47
-SellDate  : 2020-11-10
-SellTime  : 4:51:0
-Profit    : -125.75
-
-Status    : Complete
-BuyPrice  : 12557.05
-BuyDate   : 2020-11-10
-BuyTime   : 5:9:0
-SellPrice : 12544.47
-SellDate  : 2020-11-10
-SellTime  : 6:23:0
-Profit    : -125.75
-
-Status    : Complete
-BuyPrice  : 12557.05
-BuyDate   : 2020-11-10
-BuyTime   : 6:26:0
-SellPrice : 12607.35
-SellDate  : 2020-11-10
-SellTime  : 7:28:0
-Profit    : 503.00
-
-Status    : Complete
-BuyPrice  : 12557.05
-BuyDate   : 2020-11-10
-BuyTime   : 8:43:0
-SellPrice : 12544.47
-SellDate  : 2020-11-10
-SellTime  : 8:44:0
-Profit    : -125.75
-
-Status    : Complete
-BuyPrice  : 12557.05
-BuyDate   : 2020-11-10
-BuyTime   : 8:46:0
-SellPrice : 12607.35
-SellDate  : 2020-11-10
-SellTime  : 9:18:0
-Profit    : 503.00
-
-Status    : Complete
-BuyPrice  : 12686.10
+BuyPrice  : 12642.65
 BuyDate   : 2020-11-11
-BuyTime   : 3:45:0
-SellPrice : 12678.72
+BuyTime   : 5:44:0
+SellPrice : 12600.80
 SellDate  : 2020-11-11
-SellTime  : 3:46:0
-Profit    : -73.75
+SellTime  : 5:48:0
+Profit    : -418.50
 
 Status    : Complete
-BuyPrice  : 12686.10
+BuyPrice  : 12642.65
 BuyDate   : 2020-11-11
-BuyTime   : 5:35:0
-SellPrice : 12678.72
+BuyTime   : 5:55:0
+SellPrice : 12600.80
 SellDate  : 2020-11-11
-SellTime  : 5:39:0
-Profit    : -73.75
+SellTime  : 6:24:0
+Profit    : -418.50
 
 Status    : Complete
-BuyPrice  : 12686.10
+BuyPrice  : 12642.65
 BuyDate   : 2020-11-11
-BuyTime   : 5:40:0
-SellPrice : 12678.72
+BuyTime   : 6:42:0
+SellPrice : 12600.80
 SellDate  : 2020-11-11
-SellTime  : 5:41:0
-Profit    : -73.75
+SellTime  : 7:48:0
+Profit    : -418.50
 
 Status    : Complete
-BuyPrice  : 12686.10
+BuyPrice  : 12642.65
 BuyDate   : 2020-11-11
-BuyTime   : 8:22:0
-SellPrice : 12678.72
+BuyTime   : 8:8:0
+SellPrice : 12758.70
 SellDate  : 2020-11-11
-SellTime  : 8:23:0
-Profit    : -73.75
+SellTime  : 9:59:0
+Profit    : 1160.50
 
 Status    : Complete
-BuyPrice  : 12686.10
-BuyDate   : 2020-11-11
-BuyTime   : 8:25:0
-SellPrice : 12715.60
-SellDate  : 2020-11-11
-SellTime  : 8:39:0
-Profit    : 295.00
-
-Status    : Complete
-BuyPrice  : 12713.80
-BuyDate   : 2020-11-12
-BuyTime   : 3:45:0
-SellPrice : 12708.35
-SellDate  : 2020-11-12
-SellTime  : 3:46:0
-Profit    : -54.50
-
-Status    : Complete
-BuyPrice  : 12713.80
-BuyDate   : 2020-11-12
-BuyTime   : 3:47:0
-SellPrice : 12708.35
-SellDate  : 2020-11-12
-SellTime  : 3:48:0
-Profit    : -54.50
-
-Status    : Complete
-BuyPrice  : 12713.80
-BuyDate   : 2020-11-12
-BuyTime   : 3:49:0
-SellPrice : 12735.60
-SellDate  : 2020-11-12
-SellTime  : 3:51:0
-Profit    : 218.00
-
-Status    : Complete
-BuyPrice  : 12713.80
-BuyDate   : 2020-11-12
-BuyTime   : 3:58:0
-SellPrice : 12708.35
-SellDate  : 2020-11-12
-SellTime  : 3:59:0
-Profit    : -54.50
-
-Status    : Complete
-BuyPrice  : 12713.80
-BuyDate   : 2020-11-12
-BuyTime   : 4:0:0
-SellPrice : 12708.35
-SellDate  : 2020-11-12
-SellTime  : 4:4:0
-Profit    : -54.50
-
-Status    : Complete
-BuyPrice  : 12713.80
-BuyDate   : 2020-11-12
-BuyTime   : 7:0:0
-SellPrice : 12708.35
-SellDate  : 2020-11-12
-SellTime  : 7:11:0
-Profit    : -54.50
-
-Status    : Complete
-BuyPrice  : 12661.95
-BuyDate   : 2020-11-13
-BuyTime   : 3:45:0
-SellPrice : 12652.26
-SellDate  : 2020-11-13
-SellTime  : 4:33:0
-Profit    : -96.88
-
-Status    : Complete
-BuyPrice  : 12661.95
-BuyDate   : 2020-11-13
-BuyTime   : 4:46:0
-SellPrice : 12700.70
-SellDate  : 2020-11-13
-SellTime  : 4:54:0
-Profit    : 387.50
-
-Status    : Complete
-BuyPrice  : 12661.95
-BuyDate   : 2020-11-13
-BuyTime   : 6:0:0
-SellPrice : 12700.70
-SellDate  : 2020-11-13
-SellTime  : 6:40:0
-Profit    : 387.50
-
-Status    : Complete
-BuyPrice  : 12661.95
-BuyDate   : 2020-11-13
-BuyTime   : 7:11:0
-SellPrice : 12700.70
-SellDate  : 2020-11-13
-SellTime  : 8:26:0
-Profit    : 387.50
-
-Status    : Complete
-BuyPrice  : 12823.35
-BuyDate   : 2020-11-14
-BuyTime   : 12:37:0
-SellPrice : 12823.35
-SellDate  : 2020-11-14
-SellTime  : 12:45:0
-Profit    : 0.00
-
-Status    : Complete
-BuyPrice  : 12823.35
-BuyDate   : 2020-11-14
-BuyTime   : 12:46:0
-SellPrice : 12823.35
-SellDate  : 2020-11-14
-SellTime  : 12:47:0
-Profit    : 0.00
-
-Status    : Complete
-BuyPrice  : 12823.35
-BuyDate   : 2020-11-14
-BuyTime   : 12:48:0
-SellPrice : 12780.25
-SellDate  : 2020-11-14
-SellTime  : 13:48:0
-Profit    : -431.00
-
-Status    : Complete
-BuyPrice  : 12934.05
+BuyPrice  : 12828.70
 BuyDate   : 2020-11-17
-BuyTime   : 3:45:0
+BuyTime   : 5:0:0
+SellPrice : 12808.89
+SellDate  : 2020-11-17
+SellTime  : 5:10:0
+Profit    : -198.13
+
+Status    : Complete
+BuyPrice  : 12828.70
+BuyDate   : 2020-11-17
+BuyTime   : 6:12:0
 SellPrice : 12880.15
 SellDate  : 2020-11-17
 SellTime  : 9:59:0
-Profit    : -538.99
+Profit    : 514.50
 
 Status    : Complete
-BuyPrice  : 12863.20
+BuyPrice  : 12934.05
 BuyDate   : 2020-11-18
-BuyTime   : 3:45:0
-SellPrice : 12856.51
+BuyTime   : 9:33:0
+SellPrice : 12944.10
 SellDate  : 2020-11-18
-SellTime  : 3:46:0
-Profit    : -66.88
+SellTime  : 9:59:0
+Profit    : 100.50
 
 Status    : Complete
-BuyPrice  : 12863.20
-BuyDate   : 2020-11-18
-BuyTime   : 3:47:0
-SellPrice : 12889.95
-SellDate  : 2020-11-18
-SellTime  : 3:49:0
-Profit    : 267.50
-
-Status    : Complete
-BuyPrice  : 12863.20
-BuyDate   : 2020-11-18
-BuyTime   : 4:0:0
-SellPrice : 12856.51
-SellDate  : 2020-11-18
-SellTime  : 4:9:0
-Profit    : -66.88
-
-Status    : Complete
-BuyPrice  : 12863.20
-BuyDate   : 2020-11-18
-BuyTime   : 4:11:0
-SellPrice : 12856.51
-SellDate  : 2020-11-18
-SellTime  : 5:6:0
-Profit    : -66.88
-
-Status    : Complete
-BuyPrice  : 12863.20
-BuyDate   : 2020-11-18
-BuyTime   : 5:8:0
-SellPrice : 12856.51
-SellDate  : 2020-11-18
-SellTime  : 5:35:0
-Profit    : -66.88
-
-Status    : Complete
-BuyPrice  : 12863.20
-BuyDate   : 2020-11-18
-BuyTime   : 7:39:0
-SellPrice : 12856.51
-SellDate  : 2020-11-18
-SellTime  : 7:41:0
-Profit    : -66.88
-
-Status    : Complete
-BuyPrice  : 12863.20
-BuyDate   : 2020-11-18
-BuyTime   : 8:10:0
-SellPrice : 12889.95
-SellDate  : 2020-11-18
-SellTime  : 8:16:0
-Profit    : 267.50
-
-Status    : Complete
-BuyPrice  : 12868.70
+BuyPrice  : 12948.85
 BuyDate   : 2020-11-19
-BuyTime   : 3:45:0
-SellPrice : 12901.80
+BuyTime   : 4:37:0
+SellPrice : 12916.47
 SellDate  : 2020-11-19
-SellTime  : 3:56:0
-Profit    : 331.00
+SellTime  : 5:23:0
+Profit    : -323.75
 
 Status    : Complete
-BuyPrice  : 12868.70
+BuyPrice  : 12948.85
 BuyDate   : 2020-11-19
-BuyTime   : 8:20:0
-SellPrice : 12860.42
+BuyTime   : 6:9:0
+SellPrice : 12916.47
 SellDate  : 2020-11-19
-SellTime  : 8:41:0
-Profit    : -82.75
+SellTime  : 7:29:0
+Profit    : -323.75
 
 Status    : Complete
-BuyPrice  : 12828.00
-BuyDate   : 2020-11-20
-BuyTime   : 3:45:0
-SellPrice : 12817.10
-SellDate  : 2020-11-20
-SellTime  : 3:46:0
-Profit    : -109.00
-
-Status    : Complete
-BuyPrice  : 12828.00
-BuyDate   : 2020-11-20
-BuyTime   : 3:47:0
-SellPrice : 12817.10
-SellDate  : 2020-11-20
-SellTime  : 3:56:0
-Profit    : -109.00
-
-Status    : Complete
-BuyPrice  : 12828.00
-BuyDate   : 2020-11-20
-BuyTime   : 4:4:0
-SellPrice : 12817.10
-SellDate  : 2020-11-20
-SellTime  : 4:9:0
-Profit    : -109.00
-
-Status    : Complete
-BuyPrice  : 12828.00
-BuyDate   : 2020-11-20
+BuyPrice  : 12892.45
+BuyDate   : 2020-11-23
 BuyTime   : 4:10:0
-SellPrice : 12817.10
-SellDate  : 2020-11-20
-SellTime  : 4:15:0
-Profit    : -109.00
-
-Status    : Complete
-BuyPrice  : 12828.00
-BuyDate   : 2020-11-20
-BuyTime   : 4:40:0
-SellPrice : 12817.10
-SellDate  : 2020-11-20
-SellTime  : 4:54:0
-Profit    : -109.00
-
-Status    : Complete
-BuyPrice  : 12828.00
-BuyDate   : 2020-11-20
-BuyTime   : 4:58:0
-SellPrice : 12817.10
-SellDate  : 2020-11-20
-SellTime  : 5:3:0
-Profit    : -109.00
-
-Status    : Complete
-BuyPrice  : 12828.00
-BuyDate   : 2020-11-20
-BuyTime   : 8:15:0
-SellPrice : 12871.60
-SellDate  : 2020-11-20
-SellTime  : 8:30:0
-Profit    : 436.00
-
-Status    : Complete
-BuyPrice  : 12961.20
-BuyDate   : 2020-11-23
-BuyTime   : 3:45:0
-SellPrice : 12954.53
+SellPrice : 12851.90
 SellDate  : 2020-11-23
-SellTime  : 3:46:0
-Profit    : -66.75
+SellTime  : 4:31:0
+Profit    : -405.50
 
 Status    : Complete
-BuyPrice  : 12961.20
+BuyPrice  : 12892.45
 BuyDate   : 2020-11-23
-BuyTime   : 8:35:0
-SellPrice : 12954.53
+BuyTime   : 4:47:0
+SellPrice : 12851.90
 SellDate  : 2020-11-23
-SellTime  : 8:37:0
-Profit    : -66.75
+SellTime  : 5:16:0
+Profit    : -405.50
 
 Status    : Complete
-BuyPrice  : 13005.60
-BuyDate   : 2020-11-24
-BuyTime   : 3:45:0
-SellPrice : 12998.70
-SellDate  : 2020-11-24
-SellTime  : 3:46:0
-Profit    : -69.00
-
-Status    : Complete
-BuyPrice  : 13005.60
-BuyDate   : 2020-11-24
-BuyTime   : 3:47:0
-SellPrice : 13033.20
-SellDate  : 2020-11-24
-SellTime  : 4:8:0
-Profit    : 276.00
-
-Status    : Complete
-BuyPrice  : 13005.60
-BuyDate   : 2020-11-24
+BuyPrice  : 12892.45
+BuyDate   : 2020-11-23
 BuyTime   : 5:52:0
-SellPrice : 12998.70
-SellDate  : 2020-11-24
-SellTime  : 5:54:0
-Profit    : -69.00
+SellPrice : 12928.15
+SellDate  : 2020-11-23
+SellTime  : 9:59:0
+Profit    : 357.00
 
 Status    : Complete
-BuyPrice  : 13005.60
-BuyDate   : 2020-11-24
-BuyTime   : 5:57:0
-SellPrice : 12998.70
-SellDate  : 2020-11-24
-SellTime  : 5:59:0
-Profit    : -69.00
-
-Status    : Complete
-BuyPrice  : 13005.60
-BuyDate   : 2020-11-24
-BuyTime   : 6:5:0
-SellPrice : 13033.20
-SellDate  : 2020-11-24
-SellTime  : 7:31:0
-Profit    : 276.00
-
-Status    : Complete
-BuyPrice  : 13145.85
+BuyPrice  : 13079.10
 BuyDate   : 2020-11-25
-BuyTime   : 3:45:0
-SellPrice : 13140.56
+BuyTime   : 4:53:0
+SellPrice : 13053.83
 SellDate  : 2020-11-25
-SellTime  : 3:46:0
-Profit    : -52.87
+SellTime  : 4:59:0
+Profit    : -252.75
 
 Status    : Complete
-BuyPrice  : 12913.55
-BuyDate   : 2020-11-26
+BuyPrice  : 13018.00
+BuyDate   : 2020-11-27
 BuyTime   : 3:45:0
-SellPrice : 12906.25
-SellDate  : 2020-11-26
-SellTime  : 3:46:0
-Profit    : -73.00
+SellPrice : 12961.10
+SellDate  : 2020-11-27
+SellTime  : 4:15:0
+Profit    : -569.00
 
 Status    : Complete
-BuyPrice  : 12913.55
-BuyDate   : 2020-11-26
-BuyTime   : 3:47:0
-SellPrice : 12906.25
-SellDate  : 2020-11-26
-SellTime  : 7:33:0
-Profit    : -73.00
-
-Status    : Complete
-BuyPrice  : 12913.55
-BuyDate   : 2020-11-26
-BuyTime   : 7:34:0
-SellPrice : 12906.25
-SellDate  : 2020-11-26
-SellTime  : 7:35:0
-Profit    : -73.00
-
-Status    : Complete
-BuyPrice  : 12913.55
-BuyDate   : 2020-11-26
-BuyTime   : 7:48:0
-SellPrice : 12906.25
-SellDate  : 2020-11-26
-SellTime  : 7:53:0
-Profit    : -73.00
-
-Status    : Complete
-BuyPrice  : 12913.55
-BuyDate   : 2020-11-26
-BuyTime   : 7:55:0
-SellPrice : 12906.25
-SellDate  : 2020-11-26
-SellTime  : 8:1:0
-Profit    : -73.00
-
-Status    : Complete
-BuyPrice  : 12913.55
-BuyDate   : 2020-11-26
-BuyTime   : 8:9:0
-SellPrice : 12906.25
-SellDate  : 2020-11-26
-SellTime  : 8:12:0
-Profit    : -73.00
-
-Status    : Complete
-BuyPrice  : 12913.55
-BuyDate   : 2020-11-26
-BuyTime   : 8:35:0
-SellPrice : 12906.25
-SellDate  : 2020-11-26
-SellTime  : 9:0:0
-Profit    : -73.00
-
-Status    : Complete
-BuyPrice  : 12913.55
-BuyDate   : 2020-11-26
-BuyTime   : 9:2:0
-SellPrice : 12942.75
-SellDate  : 2020-11-26
-SellTime  : 9:32:0
-Profit    : 292.00
+BuyPrice  : 13018.00
+BuyDate   : 2020-11-27
+BuyTime   : 7:0:0
+SellPrice : 12961.10
+SellDate  : 2020-11-27
+SellTime  : 7:45:0
+Profit    : -569.00
 
 Status    : Complete
 BuyPrice  : 13035.30
-BuyDate   : 2020-11-27
-BuyTime   : 3:45:0
-SellPrice : 13025.72
-SellDate  : 2020-11-27
-SellTime  : 7:11:0
-Profit    : -95.75
-
-Status    : Complete
-BuyPrice  : 13064.20
 BuyDate   : 2020-12-1
 BuyTime   : 3:45:0
-SellPrice : 13042.58
+SellPrice : 13005.05
 SellDate  : 2020-12-1
-SellTime  : 4:49:0
-Profit    : -216.25
+SellTime  : 3:57:0
+Profit    : -302.50
 
 Status    : Complete
-BuyPrice  : 13064.20
+BuyPrice  : 13035.30
 BuyDate   : 2020-12-1
-BuyTime   : 5:11:0
+BuyTime   : 4:42:0
 SellPrice : 13099.75
 SellDate  : 2020-12-1
 SellTime  : 9:59:0
-Profit    : 355.50
+Profit    : 644.50
 
 Status    : Complete
-BuyPrice  : 13122.25
-BuyDate   : 2020-12-2
-BuyTime   : 3:45:0
-SellPrice : 13113.64
-SellDate  : 2020-12-2
-SellTime  : 3:50:0
-Profit    : -86.12
-
-Status    : Complete
-BuyPrice  : 13122.25
+BuyPrice  : 13128.40
 BuyDate   : 2020-12-2
 BuyTime   : 3:51:0
-SellPrice : 13113.64
+SellPrice : 13087.00
 SellDate  : 2020-12-2
-SellTime  : 3:52:0
-Profit    : -86.12
+SellTime  : 4:27:0
+Profit    : -414.00
 
 Status    : Complete
-BuyPrice  : 13122.25
-BuyDate   : 2020-12-2
-BuyTime   : 9:34:0
-SellPrice : 13113.64
-SellDate  : 2020-12-2
-SellTime  : 9:35:0
-Profit    : -86.12
-
-Status    : Complete
-BuyPrice  : 13216.60
+BuyPrice  : 13128.50
 BuyDate   : 2020-12-3
-BuyTime   : 3:45:0
+BuyTime   : 6:50:0
 SellPrice : 13138.55
 SellDate  : 2020-12-3
 SellTime  : 9:59:0
-Profit    : -780.50
+Profit    : 100.50
 
 Status    : Complete
-BuyPrice  : 13187.30
+BuyPrice  : 13216.60
 BuyDate   : 2020-12-4
-BuyTime   : 3:45:0
-SellPrice : 13181.69
+BuyTime   : 4:30:0
+SellPrice : 13189.42
 SellDate  : 2020-12-4
-SellTime  : 3:49:0
-Profit    : -56.12
+SellTime  : 7:7:0
+Profit    : -271.75
 
 Status    : Complete
-BuyPrice  : 13187.30
+BuyPrice  : 13216.60
 BuyDate   : 2020-12-4
-BuyTime   : 3:50:0
-SellPrice : 13209.75
+BuyTime   : 8:12:0
+SellPrice : 13274.60
 SellDate  : 2020-12-4
-SellTime  : 4:13:0
-Profit    : 224.50
+SellTime  : 9:59:0
+Profit    : 580.00
 
 Status    : Complete
-BuyPrice  : 13187.30
-BuyDate   : 2020-12-4
-BuyTime   : 7:7:0
-SellPrice : 13181.69
-SellDate  : 2020-12-4
-SellTime  : 7:18:0
-Profit    : -56.12
-
-Status    : Complete
-BuyPrice  : 13187.30
-BuyDate   : 2020-12-4
-BuyTime   : 7:37:0
-SellPrice : 13181.69
-SellDate  : 2020-12-4
-SellTime  : 7:46:0
-Profit    : -56.12
-
-Status    : Complete
-BuyPrice  : 13187.30
-BuyDate   : 2020-12-4
-BuyTime   : 7:49:0
-SellPrice : 13209.75
-SellDate  : 2020-12-4
-SellTime  : 7:56:0
-Profit    : 224.50
-
-Status    : Complete
-BuyPrice  : 13276.65
-BuyDate   : 2020-12-7
-BuyTime   : 3:45:0
-SellPrice : 13267.97
-SellDate  : 2020-12-7
-SellTime  : 3:47:0
-Profit    : -86.75
-
-Status    : Complete
-BuyPrice  : 13276.65
+BuyPrice  : 13280.05
 BuyDate   : 2020-12-7
 BuyTime   : 3:48:0
-SellPrice : 13267.97
+SellPrice : 13355.45
 SellDate  : 2020-12-7
-SellTime  : 3:50:0
-Profit    : -86.75
-
-Status    : Complete
-BuyPrice  : 13276.65
-BuyDate   : 2020-12-7
-BuyTime   : 3:51:0
-SellPrice : 13311.35
-SellDate  : 2020-12-7
-SellTime  : 4:14:0
-Profit    : 347.00
-
-Status    : Complete
-BuyPrice  : 13394.55
-BuyDate   : 2020-12-8
-BuyTime   : 3:45:0
-SellPrice : 13386.70
-SellDate  : 2020-12-8
-SellTime  : 3:49:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 13394.55
-BuyDate   : 2020-12-8
-BuyTime   : 3:51:0
-SellPrice : 13386.70
-SellDate  : 2020-12-8
-SellTime  : 3:53:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 13394.55
-BuyDate   : 2020-12-8
-BuyTime   : 3:54:0
-SellPrice : 13386.70
-SellDate  : 2020-12-8
-SellTime  : 4:0:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 13394.55
-BuyDate   : 2020-12-8
-BuyTime   : 4:2:0
-SellPrice : 13386.70
-SellDate  : 2020-12-8
-SellTime  : 4:6:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 13394.55
-BuyDate   : 2020-12-8
-BuyTime   : 4:7:0
-SellPrice : 13425.95
-SellDate  : 2020-12-8
-SellTime  : 4:15:0
-Profit    : 314.00
-
-Status    : Complete
-BuyPrice  : 13394.55
-BuyDate   : 2020-12-8
-BuyTime   : 5:30:0
-SellPrice : 13386.70
-SellDate  : 2020-12-8
-SellTime  : 5:32:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 13394.55
-BuyDate   : 2020-12-8
-BuyTime   : 7:30:0
-SellPrice : 13386.70
-SellDate  : 2020-12-8
-SellTime  : 7:32:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 13394.55
-BuyDate   : 2020-12-8
-BuyTime   : 8:5:0
-SellPrice : 13386.70
-SellDate  : 2020-12-8
-SellTime  : 8:41:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 13394.55
-BuyDate   : 2020-12-8
-BuyTime   : 8:43:0
-SellPrice : 13425.95
-SellDate  : 2020-12-8
-SellTime  : 9:0:0
-Profit    : 314.00
-
-Status    : Complete
-BuyPrice  : 13394.55
-BuyDate   : 2020-12-8
-BuyTime   : 9:28:0
-SellPrice : 13386.70
-SellDate  : 2020-12-8
-SellTime  : 9:45:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 13394.55
-BuyDate   : 2020-12-8
-BuyTime   : 9:51:0
-SellPrice : 13386.70
-SellDate  : 2020-12-8
-SellTime  : 9:54:0
-Profit    : -78.50
-
-Status    : Complete
-BuyPrice  : 13466.90
-BuyDate   : 2020-12-9
-BuyTime   : 3:45:0
-SellPrice : 13462.58
-SellDate  : 2020-12-9
-SellTime  : 3:46:0
-Profit    : -43.25
-
-Status    : Complete
-BuyPrice  : 13466.90
-BuyDate   : 2020-12-9
-BuyTime   : 3:47:0
-SellPrice : 13462.58
-SellDate  : 2020-12-9
-SellTime  : 3:53:0
-Profit    : -43.25
-
-Status    : Complete
-BuyPrice  : 13466.90
-BuyDate   : 2020-12-9
-BuyTime   : 3:54:0
-SellPrice : 13484.20
-SellDate  : 2020-12-9
-SellTime  : 4:45:0
-Profit    : 173.00
-
-Status    : Complete
-BuyPrice  : 13466.90
-BuyDate   : 2020-12-9
-BuyTime   : 5:32:0
-SellPrice : 13484.20
-SellDate  : 2020-12-9
-SellTime  : 5:36:0
-Profit    : 173.00
-
-Status    : Complete
-BuyPrice  : 13466.90
-BuyDate   : 2020-12-9
-BuyTime   : 7:9:0
-SellPrice : 13484.20
-SellDate  : 2020-12-9
-SellTime  : 7:31:0
-Profit    : 173.00
-
-Status    : Complete
-BuyPrice  : 13478.85
-BuyDate   : 2020-12-10
-BuyTime   : 3:45:0
-SellPrice : 13473.10
-SellDate  : 2020-12-10
-SellTime  : 3:46:0
-Profit    : -57.50
-
-Status    : Complete
-BuyPrice  : 13478.85
-BuyDate   : 2020-12-10
-BuyTime   : 3:49:0
-SellPrice : 13473.10
-SellDate  : 2020-12-10
-SellTime  : 3:52:0
-Profit    : -57.50
-
-Status    : Complete
-BuyPrice  : 13478.85
-BuyDate   : 2020-12-10
-BuyTime   : 3:55:0
-SellPrice : 13473.10
-SellDate  : 2020-12-10
-SellTime  : 3:56:0
-Profit    : -57.50
-
-Status    : Complete
-BuyPrice  : 13478.85
-BuyDate   : 2020-12-10
-BuyTime   : 9:10:0
-SellPrice : 13473.10
-SellDate  : 2020-12-10
-SellTime  : 9:17:0
-Profit    : -57.50
-
-Status    : Complete
-BuyPrice  : 13478.85
-BuyDate   : 2020-12-10
-BuyTime   : 9:25:0
-SellPrice : 13473.10
-SellDate  : 2020-12-10
-SellTime  : 9:42:0
-Profit    : -57.50
-
-Status    : Complete
-BuyPrice  : 13478.85
-BuyDate   : 2020-12-10
-BuyTime   : 9:46:0
-SellPrice : 13481.55
-SellDate  : 2020-12-10
 SellTime  : 9:59:0
-Profit    : 27.00
+Profit    : 754.00
 
 Status    : Complete
-BuyPrice  : 13535.95
-BuyDate   : 2020-12-11
+BuyPrice  : 13366.65
+BuyDate   : 2020-12-8
 BuyTime   : 3:45:0
-SellPrice : 13566.75
-SellDate  : 2020-12-11
-SellTime  : 4:49:0
-Profit    : 308.00
+SellPrice : 13335.47
+SellDate  : 2020-12-8
+SellTime  : 5:56:0
+Profit    : -311.75
 
 Status    : Complete
-BuyPrice  : 13535.95
-BuyDate   : 2020-12-11
-BuyTime   : 6:0:0
-SellPrice : 13528.25
-SellDate  : 2020-12-11
-SellTime  : 6:11:0
-Profit    : -77.00
-
-Status    : Complete
-BuyPrice  : 13535.95
-BuyDate   : 2020-12-11
-BuyTime   : 6:14:0
-SellPrice : 13566.75
-SellDate  : 2020-12-11
-SellTime  : 7:19:0
-Profit    : 308.00
-
-Status    : Complete
-BuyPrice  : 13535.95
-BuyDate   : 2020-12-11
-BuyTime   : 7:57:0
-SellPrice : 13528.25
-SellDate  : 2020-12-11
-SellTime  : 7:58:0
-Profit    : -77.00
-
-Status    : Complete
-BuyPrice  : 13535.95
-BuyDate   : 2020-12-11
-BuyTime   : 8:7:0
-SellPrice : 13528.25
-SellDate  : 2020-12-11
-SellTime  : 8:13:0
-Profit    : -77.00
-
-Status    : Complete
-BuyPrice  : 13535.95
-BuyDate   : 2020-12-11
-BuyTime   : 8:18:0
-SellPrice : 13528.25
-SellDate  : 2020-12-11
-SellTime  : 8:19:0
-Profit    : -77.00
-
-Status    : Complete
-BuyPrice  : 13588.40
-BuyDate   : 2020-12-14
-BuyTime   : 3:45:0
-SellPrice : 13582.12
-SellDate  : 2020-12-14
-SellTime  : 3:46:0
-Profit    : -62.75
-
-Status    : Complete
-BuyPrice  : 13588.40
-BuyDate   : 2020-12-14
-BuyTime   : 3:50:0
-SellPrice : 13582.12
-SellDate  : 2020-12-14
-SellTime  : 3:54:0
-Profit    : -62.75
-
-Status    : Complete
-BuyPrice  : 13548.65
-BuyDate   : 2020-12-15
-BuyTime   : 3:45:0
-SellPrice : 13537.33
-SellDate  : 2020-12-15
-SellTime  : 7:37:0
-Profit    : -113.25
-
-Status    : Complete
-BuyPrice  : 13548.65
-BuyDate   : 2020-12-15
-BuyTime   : 8:25:0
-SellPrice : 13568.80
-SellDate  : 2020-12-15
-SellTime  : 9:59:0
-Profit    : 201.49
-
-Status    : Complete
-BuyPrice  : 13666.45
-BuyDate   : 2020-12-16
-BuyTime   : 3:45:0
-SellPrice : 13660.53
-SellDate  : 2020-12-16
-SellTime  : 4:15:0
-Profit    : -59.25
-
-Status    : Complete
-BuyPrice  : 13666.45
-BuyDate   : 2020-12-16
-BuyTime   : 8:15:0
-SellPrice : 13690.15
-SellDate  : 2020-12-16
-SellTime  : 9:31:0
-Profit    : 237.00
-
-Status    : Complete
-BuyPrice  : 13706.40
-BuyDate   : 2020-12-17
-BuyTime   : 3:45:0
-SellPrice : 13698.19
-SellDate  : 2020-12-17
-SellTime  : 3:48:0
-Profit    : -82.13
-
-Status    : Complete
-BuyPrice  : 13706.40
-BuyDate   : 2020-12-17
-BuyTime   : 4:8:0
-SellPrice : 13739.25
-SellDate  : 2020-12-17
-SellTime  : 6:56:0
-Profit    : 328.50
-
-Status    : Complete
-BuyPrice  : 13771.45
-BuyDate   : 2020-12-18
-BuyTime   : 3:45:0
-SellPrice : 13763.91
-SellDate  : 2020-12-18
-SellTime  : 9:33:0
-Profit    : -75.38
-
-Status    : Complete
-BuyPrice  : 13771.45
-BuyDate   : 2020-12-18
-BuyTime   : 9:51:0
-SellPrice : 13745.30
-SellDate  : 2020-12-18
-SellTime  : 9:59:0
-Profit    : -261.50
-
-Status    : Complete
-BuyPrice  : 13734.00
-BuyDate   : 2020-12-21
-BuyTime   : 3:45:0
-SellPrice : 13728.36
-SellDate  : 2020-12-21
-SellTime  : 4:13:0
-Profit    : -56.38
-
-Status    : Complete
-BuyPrice  : 13734.00
-BuyDate   : 2020-12-21
-BuyTime   : 4:17:0
-SellPrice : 13756.55
-SellDate  : 2020-12-21
-SellTime  : 4:22:0
-Profit    : 225.50
-
-Status    : Complete
-BuyPrice  : 13734.00
-BuyDate   : 2020-12-21
-BuyTime   : 5:30:0
-SellPrice : 13728.36
-SellDate  : 2020-12-21
-SellTime  : 5:45:0
-Profit    : -56.38
-
-Status    : Complete
-BuyPrice  : 13734.00
-BuyDate   : 2020-12-21
-BuyTime   : 5:46:0
-SellPrice : 13728.36
-SellDate  : 2020-12-21
-SellTime  : 6:7:0
-Profit    : -56.38
-
-Status    : Complete
-BuyPrice  : 13734.00
-BuyDate   : 2020-12-21
+BuyPrice  : 13366.65
+BuyDate   : 2020-12-8
 BuyTime   : 6:20:0
-SellPrice : 13728.36
-SellDate  : 2020-12-21
-SellTime  : 6:43:0
-Profit    : -56.38
+SellPrice : 13335.47
+SellDate  : 2020-12-8
+SellTime  : 6:45:0
+Profit    : -311.75
 
 Status    : Complete
-BuyPrice  : 13734.00
+BuyPrice  : 13366.65
+BuyDate   : 2020-12-8
+BuyTime   : 6:56:0
+SellPrice : 13390.60
+SellDate  : 2020-12-8
+SellTime  : 9:59:0
+Profit    : 239.49
+
+Status    : Complete
+BuyPrice  : 13503.55
+BuyDate   : 2020-12-11
+BuyTime   : 8:28:0
+SellPrice : 13477.49
+SellDate  : 2020-12-11
+SellTime  : 8:30:0
+Profit    : -260.62
+
+Status    : Complete
+BuyPrice  : 13503.55
+BuyDate   : 2020-12-11
+BuyTime   : 9:34:0
+SellPrice : 13510.30
+SellDate  : 2020-12-11
+SellTime  : 9:59:0
+Profit    : 67.50
+
+Status    : Complete
+BuyPrice  : 13579.35
+BuyDate   : 2020-12-14
+BuyTime   : 3:45:0
+SellPrice : 13535.22
+SellDate  : 2020-12-14
+SellTime  : 4:42:0
+Profit    : -441.25
+
+Status    : Complete
+BuyPrice  : 13692.35
+BuyDate   : 2020-12-17
+BuyTime   : 3:45:0
+SellPrice : 13739.50
+SellDate  : 2020-12-17
+SellTime  : 9:59:0
+Profit    : 471.50
+
+Status    : Complete
+BuyPrice  : 13772.85
 BuyDate   : 2020-12-21
-BuyTime   : 6:49:0
-SellPrice : 13728.36
+BuyTime   : 5:9:0
+SellPrice : 13744.29
 SellDate  : 2020-12-21
-SellTime  : 6:57:0
-Profit    : -56.38
+SellTime  : 5:34:0
+Profit    : -285.62
 
 Status    : Complete
-BuyPrice  : 13424.00
-BuyDate   : 2020-12-22
-BuyTime   : 3:45:0
-SellPrice : 13409.78
-SellDate  : 2020-12-22
-SellTime  : 3:50:0
-Profit    : -142.25
-
-Status    : Complete
-BuyPrice  : 13424.00
-BuyDate   : 2020-12-22
-BuyTime   : 3:53:0
-SellPrice : 13409.78
-SellDate  : 2020-12-22
-SellTime  : 3:54:0
-Profit    : -142.25
-
-Status    : Complete
-BuyPrice  : 13424.00
-BuyDate   : 2020-12-22
-BuyTime   : 8:42:0
-SellPrice : 13409.78
-SellDate  : 2020-12-22
-SellTime  : 9:24:0
-Profit    : -142.25
-
-Status    : Complete
-BuyPrice  : 13424.00
-BuyDate   : 2020-12-22
-BuyTime   : 9:29:0
-SellPrice : 13480.90
-SellDate  : 2020-12-22
-SellTime  : 9:40:0
-Profit    : 569.00
-
-Status    : Complete
-BuyPrice  : 13480.40
+BuyPrice  : 13492.05
 BuyDate   : 2020-12-23
-BuyTime   : 3:45:0
-SellPrice : 13469.67
-SellDate  : 2020-12-23
-SellTime  : 3:48:0
-Profit    : -107.25
-
-Status    : Complete
-BuyPrice  : 13480.40
-BuyDate   : 2020-12-23
-BuyTime   : 3:49:0
-SellPrice : 13469.67
-SellDate  : 2020-12-23
-SellTime  : 4:3:0
-Profit    : -107.25
-
-Status    : Complete
-BuyPrice  : 13480.40
-BuyDate   : 2020-12-23
-BuyTime   : 4:5:0
-SellPrice : 13523.30
-SellDate  : 2020-12-23
-SellTime  : 4:17:0
-Profit    : 429.00
-
-Status    : Complete
-BuyPrice  : 13669.30
-BuyDate   : 2020-12-24
-BuyTime   : 3:45:0
-SellPrice : 13694.65
-SellDate  : 2020-12-24
-SellTime  : 3:53:0
-Profit    : 253.50
-
-Status    : Complete
-BuyPrice  : 13669.30
-BuyDate   : 2020-12-24
-BuyTime   : 5:35:0
-SellPrice : 13662.96
-SellDate  : 2020-12-24
-SellTime  : 5:43:0
-Profit    : -63.37
-
-Status    : Complete
-BuyPrice  : 13669.30
-BuyDate   : 2020-12-24
-BuyTime   : 5:51:0
-SellPrice : 13662.96
-SellDate  : 2020-12-24
-SellTime  : 5:53:0
-Profit    : -63.37
-
-Status    : Complete
-BuyPrice  : 13669.30
-BuyDate   : 2020-12-24
-BuyTime   : 6:10:0
-SellPrice : 13662.96
-SellDate  : 2020-12-24
-SellTime  : 6:16:0
-Profit    : -63.37
-
-Status    : Complete
-BuyPrice  : 13669.30
-BuyDate   : 2020-12-24
-BuyTime   : 6:17:0
-SellPrice : 13662.96
-SellDate  : 2020-12-24
-SellTime  : 6:19:0
-Profit    : -63.37
-
-Status    : Complete
-BuyPrice  : 13669.30
-BuyDate   : 2020-12-24
-BuyTime   : 6:31:0
-SellPrice : 13694.65
-SellDate  : 2020-12-24
-SellTime  : 6:50:0
-Profit    : 253.50
-
-Status    : Complete
-BuyPrice  : 13852.40
-BuyDate   : 2020-12-28
-BuyTime   : 3:45:0
-SellPrice : 13842.67
-SellDate  : 2020-12-28
-SellTime  : 3:52:0
-Profit    : -97.25
-
-Status    : Complete
-BuyPrice  : 13852.40
-BuyDate   : 2020-12-28
-BuyTime   : 3:58:0
-SellPrice : 13842.67
-SellDate  : 2020-12-28
-SellTime  : 4:7:0
-Profit    : -97.25
-
-Status    : Complete
-BuyPrice  : 13852.40
-BuyDate   : 2020-12-28
-BuyTime   : 6:45:0
-SellPrice : 13842.67
-SellDate  : 2020-12-28
-SellTime  : 8:47:0
-Profit    : -97.25
-
-Status    : Complete
-BuyPrice  : 13852.40
-BuyDate   : 2020-12-28
-BuyTime   : 8:48:0
-SellPrice : 13881.30
-SellDate  : 2020-12-28
-SellTime  : 9:59:0
-Profit    : 288.99
-
-Status    : Complete
-BuyPrice  : 13942.75
-BuyDate   : 2020-12-29
-BuyTime   : 3:45:0
-SellPrice : 13934.55
-SellDate  : 2020-12-29
-SellTime  : 3:46:0
-Profit    : -82.00
-
-Status    : Complete
-BuyPrice  : 13942.75
-BuyDate   : 2020-12-29
-BuyTime   : 3:47:0
-SellPrice : 13934.55
-SellDate  : 2020-12-29
-SellTime  : 5:3:0
-Profit    : -82.00
-
-Status    : Complete
-BuyPrice  : 13982.90
-BuyDate   : 2020-12-30
-BuyTime   : 3:45:0
-SellPrice : 13972.33
-SellDate  : 2020-12-30
-SellTime  : 9:32:0
-Profit    : -105.75
-
-Status    : Complete
-BuyPrice  : 13982.90
-BuyDate   : 2020-12-30
-BuyTime   : 9:35:0
-SellPrice : 13972.33
-SellDate  : 2020-12-30
-SellTime  : 9:59:0
-Profit    : -105.75
-
-Status    : Complete
-BuyPrice  : 13978.25
-BuyDate   : 2020-12-31
-BuyTime   : 3:45:0
-SellPrice : 13967.80
-SellDate  : 2020-12-31
-SellTime  : 3:49:0
-Profit    : -104.50
-
-Status    : Complete
-BuyPrice  : 13978.25
-BuyDate   : 2020-12-31
 BuyTime   : 3:50:0
-SellPrice : 13967.80
-SellDate  : 2020-12-31
-SellTime  : 6:38:0
-Profit    : -104.50
+SellPrice : 13609.15
+SellDate  : 2020-12-23
+SellTime  : 9:59:0
+Profit    : 1171.01
 
 Status    : Complete
-BuyPrice  : 13978.25
-BuyDate   : 2020-12-31
-BuyTime   : 7:1:0
-SellPrice : 14020.05
-SellDate  : 2020-12-31
-SellTime  : 8:33:0
-Profit    : 418.00
+BuyPrice  : 13885.30
+BuyDate   : 2020-12-29
+BuyTime   : 5:16:0
+SellPrice : 13866.86
+SellDate  : 2020-12-29
+SellTime  : 5:20:0
+Profit    : -184.37
 
 Status    : Complete
-BuyPrice  : 13978.25
+BuyPrice  : 13885.30
+BuyDate   : 2020-12-29
+BuyTime   : 5:22:0
+SellPrice : 13930.00
+SellDate  : 2020-12-29
+SellTime  : 9:59:0
+Profit    : 447.00
+
+Status    : Complete
+BuyPrice  : 13967.60
+BuyDate   : 2020-12-30
+BuyTime   : 3:45:0
+SellPrice : 13940.67
+SellDate  : 2020-12-30
+SellTime  : 3:47:0
+Profit    : -269.25
+
+Status    : Complete
+BuyPrice  : 13967.60
+BuyDate   : 2020-12-30
+BuyTime   : 9:31:0
+SellPrice : 13978.65
+SellDate  : 2020-12-30
+SellTime  : 9:59:0
+Profit    : 110.51
+
+Status    : Complete
+BuyPrice  : 13997.00
 BuyDate   : 2020-12-31
-BuyTime   : 8:49:0
-SellPrice : 13967.80
+BuyTime   : 4:1:0
+SellPrice : 13963.99
+SellDate  : 2020-12-31
+SellTime  : 6:46:0
+Profit    : -330.12
+
+Status    : Complete
+BuyPrice  : 13997.00
+BuyDate   : 2020-12-31
+BuyTime   : 7:10:0
+SellPrice : 13963.99
 SellDate  : 2020-12-31
 SellTime  : 8:57:0
-Profit    : -104.50
+Profit    : -330.12
 
 Status    : Complete
-BuyPrice  : 13978.25
+BuyPrice  : 13997.00
 BuyDate   : 2020-12-31
-BuyTime   : 9:2:0
-SellPrice : 13967.80
+BuyTime   : 9:36:0
+SellPrice : 13971.10
 SellDate  : 2020-12-31
-SellTime  : 9:51:0
-Profit    : -104.50
+SellTime  : 9:59:0
+Profit    : -259.00
 
 Status    : Complete
-BuyPrice  : 13978.25
-BuyDate   : 2020-12-31
-BuyTime   : 9:56:0
-SellPrice : 13967.80
-SellDate  : 2020-12-31
-SellTime  : 9:58:0
-Profit    : -104.50
-
-Status    : Complete
-BuyPrice  : 14020.85
-BuyDate   : 2021-1-1
-BuyTime   : 3:45:0
-SellPrice : 14013.47
-SellDate  : 2021-1-1
-SellTime  : 3:46:0
-Profit    : -73.75
-
-Status    : Complete
-BuyPrice  : 14020.85
-BuyDate   : 2021-1-1
-BuyTime   : 3:50:0
-SellPrice : 14013.47
-SellDate  : 2021-1-1
-SellTime  : 3:53:0
-Profit    : -73.75
-
-Status    : Complete
-BuyPrice  : 14020.85
+BuyPrice  : 14024.85
 BuyDate   : 2021-1-1
 BuyTime   : 4:0:0
-SellPrice : 14013.47
+SellPrice : 14002.75
 SellDate  : 2021-1-1
-SellTime  : 4:8:0
-Profit    : -73.75
+SellTime  : 4:7:0
+Profit    : -221.00
 
 Status    : Complete
-BuyPrice  : 14020.85
+BuyPrice  : 14024.85
 BuyDate   : 2021-1-1
-BuyTime   : 4:11:0
-SellPrice : 14013.47
+BuyTime   : 4:12:0
+SellPrice : 14002.75
 SellDate  : 2021-1-1
-SellTime  : 6:25:0
-Profit    : -73.75
+SellTime  : 9:51:0
+Profit    : -221.00
 
 Status    : Complete
-BuyPrice  : 14020.85
-BuyDate   : 2021-1-1
-BuyTime   : 6:41:0
-SellPrice : 14013.47
-SellDate  : 2021-1-1
-SellTime  : 9:45:0
-Profit    : -73.75
-
-Status    : Complete
-BuyPrice  : 14020.85
-BuyDate   : 2021-1-1
-BuyTime   : 9:51:0
-SellPrice : 14013.47
-SellDate  : 2021-1-1
-SellTime  : 9:52:0
-Profit    : -73.75
-
-Status    : Complete
-BuyPrice  : 14020.85
-BuyDate   : 2021-1-1
-BuyTime   : 9:54:0
-SellPrice : 14013.47
-SellDate  : 2021-1-1
-SellTime  : 9:58:0
-Profit    : -73.75
-
-Status    : Complete
-BuyPrice  : 14107.75
+BuyPrice  : 14049.85
 BuyDate   : 2021-1-4
+BuyTime   : 5:18:0
+SellPrice : 14035.22
+SellDate  : 2021-1-4
+SellTime  : 5:30:0
+Profit    : -146.25
+
+Status    : Complete
+BuyPrice  : 14049.85
+BuyDate   : 2021-1-4
+BuyTime   : 6:5:0
+SellPrice : 14035.22
+SellDate  : 2021-1-4
+SellTime  : 6:22:0
+Profit    : -146.25
+
+Status    : Complete
+BuyPrice  : 14049.85
+BuyDate   : 2021-1-4
+BuyTime   : 6:39:0
+SellPrice : 14108.35
+SellDate  : 2021-1-4
+SellTime  : 8:23:0
+Profit    : 585.00
+
+Status    : Complete
+BuyPrice  : 14147.95
+BuyDate   : 2021-1-5
+BuyTime   : 7:2:0
+SellPrice : 14099.40
+SellDate  : 2021-1-5
+SellTime  : 7:54:0
+Profit    : -485.50
+
+Status    : Complete
+BuyPrice  : 14147.95
+BuyDate   : 2021-1-5
+BuyTime   : 8:12:0
+SellPrice : 14200.10
+SellDate  : 2021-1-5
+SellTime  : 9:59:0
+Profit    : 521.49
+
+Status    : Complete
+BuyPrice  : 14215.60
+BuyDate   : 2021-1-6
 BuyTime   : 3:45:0
-SellPrice : 14103.21
-SellDate  : 2021-1-4
-SellTime  : 3:58:0
-Profit    : -45.38
-
-Status    : Complete
-BuyPrice  : 14107.75
-BuyDate   : 2021-1-4
-BuyTime   : 4:1:0
-SellPrice : 14103.21
-SellDate  : 2021-1-4
-SellTime  : 4:4:0
-Profit    : -45.38
-
-Status    : Complete
-BuyPrice  : 14107.75
-BuyDate   : 2021-1-4
-BuyTime   : 8:23:0
-SellPrice : 14103.21
-SellDate  : 2021-1-4
-SellTime  : 8:30:0
-Profit    : -45.38
-
-Status    : Complete
-BuyPrice  : 14107.75
-BuyDate   : 2021-1-4
-BuyTime   : 9:1:0
-SellPrice : 14125.90
-SellDate  : 2021-1-4
-SellTime  : 9:30:0
-Profit    : 181.50
-
-Status    : Complete
-BuyPrice  : 14078.05
-BuyDate   : 2021-1-5
-BuyTime   : 3:45:0
-SellPrice : 14070.58
-SellDate  : 2021-1-5
-SellTime  : 3:46:0
-Profit    : -74.75
-
-Status    : Complete
-BuyPrice  : 14078.05
-BuyDate   : 2021-1-5
-BuyTime   : 4:13:0
-SellPrice : 14070.58
-SellDate  : 2021-1-5
-SellTime  : 4:39:0
-Profit    : -74.75
-
-Status    : Complete
-BuyPrice  : 14078.05
-BuyDate   : 2021-1-5
-BuyTime   : 4:58:0
-SellPrice : 14107.95
-SellDate  : 2021-1-5
-SellTime  : 5:24:0
-Profit    : 299.00
+SellPrice : 14173.74
+SellDate  : 2021-1-6
+SellTime  : 7:45:0
+Profit    : -418.62
 
 Status    : Complete
 BuyPrice  : 14244.15
-BuyDate   : 2021-1-6
+BuyDate   : 2021-1-7
 BuyTime   : 3:45:0
-SellPrice : 14233.99
-SellDate  : 2021-1-6
-SellTime  : 3:50:0
-Profit    : -101.63
+SellPrice : 14193.09
+SellDate  : 2021-1-7
+SellTime  : 4:52:0
+Profit    : -510.63
 
 Status    : Complete
 BuyPrice  : 14256.25
-BuyDate   : 2021-1-7
-BuyTime   : 3:45:0
-SellPrice : 14148.45
-SellDate  : 2021-1-7
-SellTime  : 9:59:0
-Profit    : -1078.00
-
-Status    : Complete
-BuyPrice  : 14259.15
 BuyDate   : 2021-1-8
 BuyTime   : 3:45:0
-SellPrice : 14251.95
+SellPrice : 14222.96
 SellDate  : 2021-1-8
-SellTime  : 4:3:0
-Profit    : -72.00
-
-Status    : Complete
-BuyPrice  : 14259.15
-BuyDate   : 2021-1-8
-BuyTime   : 4:46:0
-SellPrice : 14287.95
-SellDate  : 2021-1-8
-SellTime  : 5:9:0
-Profit    : 288.00
-
-Status    : Complete
-BuyPrice  : 14458.65
-BuyDate   : 2021-1-11
-BuyTime   : 3:45:0
-SellPrice : 14448.14
-SellDate  : 2021-1-11
-SellTime  : 3:55:0
-Profit    : -105.13
-
-Status    : Complete
-BuyPrice  : 14458.65
-BuyDate   : 2021-1-11
-BuyTime   : 4:0:0
-SellPrice : 14448.14
-SellDate  : 2021-1-11
-SellTime  : 4:17:0
-Profit    : -105.13
-
-Status    : Complete
-BuyPrice  : 14458.65
-BuyDate   : 2021-1-11
-BuyTime   : 4:26:0
-SellPrice : 14448.14
-SellDate  : 2021-1-11
-SellTime  : 4:38:0
-Profit    : -105.13
-
-Status    : Complete
-BuyPrice  : 14458.65
-BuyDate   : 2021-1-11
-BuyTime   : 8:0:0
-SellPrice : 14448.14
-SellDate  : 2021-1-11
-SellTime  : 8:24:0
-Profit    : -105.13
-
-Status    : Complete
-BuyPrice  : 14458.65
-BuyDate   : 2021-1-11
-BuyTime   : 8:38:0
-SellPrice : 14448.14
-SellDate  : 2021-1-11
-SellTime  : 8:55:0
-Profit    : -105.13
-
-Status    : Complete
-BuyPrice  : 14458.65
-BuyDate   : 2021-1-11
-BuyTime   : 8:58:0
-SellPrice : 14487.90
-SellDate  : 2021-1-11
-SellTime  : 9:59:0
-Profit    : 292.50
-
-Status    : Complete
-BuyPrice  : 14483.05
-BuyDate   : 2021-1-12
-BuyTime   : 3:45:0
-SellPrice : 14470.50
-SellDate  : 2021-1-12
-SellTime  : 3:52:0
-Profit    : -125.50
-
-Status    : Complete
-BuyPrice  : 14483.05
-BuyDate   : 2021-1-12
-BuyTime   : 3:56:0
-SellPrice : 14470.50
-SellDate  : 2021-1-12
-SellTime  : 4:26:0
-Profit    : -125.50
-
-Status    : Complete
-BuyPrice  : 14483.05
-BuyDate   : 2021-1-12
-BuyTime   : 4:36:0
-SellPrice : 14470.50
-SellDate  : 2021-1-12
-SellTime  : 4:42:0
-Profit    : -125.50
-
-Status    : Complete
-BuyPrice  : 14483.05
-BuyDate   : 2021-1-12
-BuyTime   : 5:9:0
-SellPrice : 14470.50
-SellDate  : 2021-1-12
-SellTime  : 5:23:0
-Profit    : -125.50
-
-Status    : Complete
-BuyPrice  : 14483.05
-BuyDate   : 2021-1-12
-BuyTime   : 5:41:0
-SellPrice : 14533.25
-SellDate  : 2021-1-12
-SellTime  : 7:8:0
-Profit    : 502.00
-
-Status    : Complete
-BuyPrice  : 14645.80
-BuyDate   : 2021-1-13
-BuyTime   : 3:45:0
-SellPrice : 14639.44
-SellDate  : 2021-1-13
-SellTime  : 3:51:0
-Profit    : -63.62
-
-Status    : Complete
-BuyPrice  : 14645.80
-BuyDate   : 2021-1-13
-BuyTime   : 4:9:0
-SellPrice : 14639.44
-SellDate  : 2021-1-13
-SellTime  : 4:19:0
-Profit    : -63.62
-
-Status    : Complete
-BuyPrice  : 14552.65
-BuyDate   : 2021-1-14
-BuyTime   : 3:45:0
-SellPrice : 14545.51
-SellDate  : 2021-1-14
-SellTime  : 3:46:0
-Profit    : -71.38
-
-Status    : Complete
-BuyPrice  : 14552.65
-BuyDate   : 2021-1-14
-BuyTime   : 3:47:0
-SellPrice : 14545.51
-SellDate  : 2021-1-14
-SellTime  : 3:48:0
-Profit    : -71.38
-
-Status    : Complete
-BuyPrice  : 14552.65
-BuyDate   : 2021-1-14
-BuyTime   : 3:50:0
-SellPrice : 14545.51
-SellDate  : 2021-1-14
 SellTime  : 3:54:0
-Profit    : -71.38
+Profit    : -332.88
 
 Status    : Complete
-BuyPrice  : 14552.65
-BuyDate   : 2021-1-14
-BuyTime   : 3:55:0
-SellPrice : 14545.51
-SellDate  : 2021-1-14
-SellTime  : 3:56:0
-Profit    : -71.38
+BuyPrice  : 14256.25
+BuyDate   : 2021-1-8
+BuyTime   : 4:43:0
+SellPrice : 14349.65
+SellDate  : 2021-1-8
+SellTime  : 9:59:0
+Profit    : 934.00
 
 Status    : Complete
-BuyPrice  : 14552.65
-BuyDate   : 2021-1-14
-BuyTime   : 5:32:0
-SellPrice : 14581.20
-SellDate  : 2021-1-14
-SellTime  : 5:56:0
-Profit    : 285.50
+BuyPrice  : 14498.20
+BuyDate   : 2021-1-12
+BuyTime   : 4:14:0
+SellPrice : 14469.42
+SellDate  : 2021-1-12
+SellTime  : 4:27:0
+Profit    : -287.75
 
 Status    : Complete
-BuyPrice  : 14598.00
-BuyDate   : 2021-1-15
-BuyTime   : 3:45:0
-SellPrice : 14591.14
-SellDate  : 2021-1-15
-SellTime  : 3:46:0
-Profit    : -68.62
+BuyPrice  : 14498.20
+BuyDate   : 2021-1-12
+BuyTime   : 5:45:0
+SellPrice : 14575.65
+SellDate  : 2021-1-12
+SellTime  : 9:59:0
+Profit    : 774.50
 
 Status    : Complete
-BuyPrice  : 14598.00
-BuyDate   : 2021-1-15
-BuyTime   : 3:50:0
-SellPrice : 14591.14
-SellDate  : 2021-1-15
-SellTime  : 3:51:0
-Profit    : -68.62
-
-Status    : InComplete
-BuyPrice  : 14459.15
-BuyDate   : 2021-1-18
-BuyTime   : 3:45:0
+BuyPrice  : 14590.65
+BuyDate   : 2021-1-13
+BuyTime   : 5:5:0
+SellPrice : 14551.20
+SellDate  : 2021-1-13
+SellTime  : 6:4:0
+Profit    : -394.50
 

@@ -7,16 +7,15 @@
 #include "transaction.h"
 #include "toData.h"
 using namespace std;
-
 int main()
 {
   
   string fileName;
-  cout<<"Enter path of Input File : ";
+  cout<<"Enter the Input Filename : ";
   cin>>fileName;
+  freopen("output.txt", "w", stdout);
   //open csv file
   fstream fin(fileName);
-  freopen("output.txt", "w", stdout);
   if (!fin.is_open())
     cout << "Error in opening file" << endl; ///
   string line, word, check;
@@ -142,12 +141,14 @@ int main()
         }
       }
     }
-    dayMin = stod(rowData[3]);
-    dayMax = stod(rowData[2]);
-
+    
     sellP = 2.0 * dayMax - dayMin;
     buyP = dayMax;
     stopLoss = dayMax - (dayMax - dayMin) * 0.25;
+    
+
+    dayMin = stod(rowData[3]);
+    dayMax = stod(rowData[2]);
   }
   for (int i = 0; i < ans.size(); i++)
   {
